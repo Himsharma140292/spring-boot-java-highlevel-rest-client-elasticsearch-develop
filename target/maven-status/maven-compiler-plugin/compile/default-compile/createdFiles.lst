@@ -1,0 +1,6 @@
+com\example\aws\elasticsearch\demo\Application.class
+com\example\aws\elasticsearch\demo\service\SessionDataService.class
+com\example\aws\elasticsearch\demo\controller\SessionDataController.class
+com\example\aws\elasticsearch\demo\util\Constant.class
+com\example\aws\elasticsearch\demo\config\ElasticsearchConfig.class
+com\example\aws\elasticsearch\demo\document\SessionData.class
